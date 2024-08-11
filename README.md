@@ -101,7 +101,6 @@
         alt="Git" />
       <br />Git
     </td>
-   
     <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/docker-icon.svg"
