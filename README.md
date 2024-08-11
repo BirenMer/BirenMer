@@ -69,16 +69,14 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="128">
-    <div style="background-color: white; display: inline-block; padding: 5px;">
+    <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/aws-icon.svg"
         alt="Amazon Web Services"
         width="65"
         height="65" />
       <br />AWS
-    </div>
-  </td>
+    </td>
     <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/mysql-icon.svg"
