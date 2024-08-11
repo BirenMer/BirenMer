@@ -37,6 +37,14 @@
     </td>
     <td align="center" width="128">
       <img
+        src="https://techstack-generator.vercel.app/cpp-icon.svg"
+        width="65"
+        height="65"
+        alt="C++" />
+      <br />C++
+    </td>
+    <td align="center" width="128">
+      <img
         src="https://techstack-generator.vercel.app/js-icon.svg"
         alt="icon"
         width="65"
@@ -59,14 +67,7 @@
         height="65" />
       <br />MySQL
     </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/cpp-icon.svg"
-        width="65"
-        height="65"
-        alt="C++" />
-      <br />C++
-    </td>
+
   </tr>
   <tr>
     <td align="center" width="128">
