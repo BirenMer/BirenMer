@@ -59,15 +59,6 @@
         height="65" />
       <br />React
     </td>
-    <td align="center" width="128">
-      <img
-        src="https://techstack-generator.vercel.app/mysql-icon.svg"
-        alt="Mysql"
-        width="65"
-        height="65" />
-      <br />MySQL
-    </td>
-
   </tr>
   <tr>
     <td align="center" width="128">
@@ -77,6 +68,22 @@
         width="65"
         height="65" />
       <br />AWS
+    </td>
+     <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=fastapi"
+        width="65"
+        height="65"
+        alt="FastAPI" />
+      <br />FastAPI
+    </td>x`
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/mysql-icon.svg"
+        alt="Mysql"
+        width="65"
+        height="65" />
+      <br />MySQL
     </td>
     <td align="center" width="128">
       <img
@@ -94,14 +101,7 @@
         alt="Git" />
       <br />Git
     </td>
-    <td align="center" width="128">
-      <img
-        src="https://skillicons.dev/icons?i=fastapi"
-        width="65"
-        height="65"
-        alt="FastAPI" />
-      <br />FastAPI
-    </td>
+   
     <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/docker-icon.svg"
