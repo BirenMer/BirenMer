@@ -27,6 +27,14 @@
 
 <table align="center">
   <tr>
+   <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/python-icon.svg""
+        alt="Pyton"
+        width="65"
+        height="65" />
+      <br />Python
+    </td>
     <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/js-icon.svg"
@@ -38,7 +46,7 @@
     <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/react-icon.svg"
-        alt="icon"
+        alt="React"
         width="65"
         height="65" />
       <br />React
@@ -46,25 +54,25 @@
     <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/mysql-icon.svg"
-        alt="icon"
+        alt="Mysql"
         width="65"
         height="65" />
       <br />MySQL
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=vscode"
+        src="https://techstack-generator.vercel.app/cpp-icon.svg"
         width="65"
         height="65"
-        alt="VsCode" />
-      <br />VsCode
+        alt="C++" />
+      <br />C++
     </td>
   </tr>
   <tr>
     <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/aws-icon.svg"
-        alt="icon"
+        alt="Amazon Web Services"
         width="65"
         height="65" />
       <br />AWS
@@ -72,7 +80,7 @@
     <td align="center" width="128">
       <img
         src="https://techstack-generator.vercel.app/github-icon.svg"
-        alt="icon"
+        alt="Github"
         width="65"
         height="65" />
       <br />Github
