@@ -11,10 +11,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=BirenMer&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     height="175"
     alt="languages graph" />
-  <img
-    src="https://streak-stats.demolab.com/?user=BirenMer&theme=neon&hide_border=true&card_width=420"
-    height="175"
-    alt="languages graph" />
 </div>
 
 ###
